@@ -743,6 +743,7 @@ ul.conta_top li a {
 ul.social_icon {
      float: left;
      padding-top: 30px;
+     padding-bottom: 30px;
 }
 
 ul.social_icon li {
